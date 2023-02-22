@@ -26,13 +26,6 @@ This application is deployed on heroku and can be viewed at this link:
 https://code-collab.herokuapp.com/
 
 
-## Usage:
-
-<!-- keeping these empty for now, once project is finished we can add screenshots of the completed code and the deployed application here -->
-![""](/images/)
-![""](/images/)
-
-
 ## Credits:
 
 This project was built by the three of us: Gabe, Stephen, and Victoria.
